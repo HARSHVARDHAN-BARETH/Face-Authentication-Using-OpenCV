@@ -182,5 +182,5 @@ face_generator()
 perm=input("Do you wish to train your image data for face authentication [y|n] : ")
 permisssion(perm,1)
 authenticate=input("Do your want test authentication system [y|n] : ")
-permisssion(authenticate,2)
+permisssion(authenticate,3)
 
